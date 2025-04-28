@@ -12,8 +12,8 @@ Each solution file is named with the problem number and title.
 ## Solutions
 
 ### Easy
-- [27. Remove Element](leetcode/Easy/27-remove-element.cpp)
-- [88. Merge Sorted Array](leetcode/Easy/88-merge-sorted-array.cpp)
+- [27. Remove Element](Easy/27-RemoveElement.cpp)
+- [88. Merge Sorted Array](Easy/88-MergeSortedArray.cpp)
 
 ### Medium
 *(no solutions yet)*

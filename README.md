@@ -12,7 +12,8 @@ Each solution file is named with the problem number and title.
 ## Solutions
 
 ### Easy
-*(no solutions yet)*
+- [27. Remove Element](Easy/27-remove-element.cpp)
+- [88. Merge Sorted Array](Easy/88-merge-sorted-array.cpp)
 
 ### Medium
 *(no solutions yet)*
